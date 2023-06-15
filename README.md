@@ -6,3 +6,5 @@ El fin de semana se llevó a cabo el Hackathon AWS MENTEFACTURA GTO CHALLENGE en
 Muchas Felicidades a las y los estudiantes de la Ingeniería en Redes y Telecomunicaciones y de la Ingeniería en Manufactura Avanzada, así como al Profesor Luis Rey Lara González por su participación en este gran proyecto.
 ```
 ![alt text](aws.png)
+![alt text](aws2.png)
+![alt text](aws3.png)
