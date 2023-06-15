@@ -8,3 +8,4 @@ Muchas Felicidades a las y los estudiantes de la Ingeniería en Redes y Telecomu
 ![alt text](aws.png)
 ![alt text](aws2.png)
 ![alt text](aws3.png)
+![alt text](aws3.jpg)
